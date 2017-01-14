@@ -1,0 +1,35 @@
+{
+  "name": "faostat_crop_livestock_data_che",
+  "datapackage_version": "1.0-beta",
+  "title": "Faostat Crop and Livestock Production Switzerland",
+  "description": "Detailed country-level production data per agricultural commodity, including livestock, grains.... 173 distinct categories, yearly data since 1960",
+  "version": "2016",
+  "keywords": ["agriculture", "production", "crop", "geography"],
+  "licenses": [{
+    "url": "http://opendatacommons.org/licenses/pddl/",
+    "name": "Open Data Commons Public Domain",
+    "version": "1.0",
+    "id": "odc-pddl"
+  }],
+  "sources": [{
+    "name": "Food & Agriculture Organisation (FAO)",
+    "web": "http://www.fao.org/faostat/en/#data/"
+  }],
+  "contributors":[ {
+    "name": "School of Data Jan 17 Expedition",
+    "email": "info@schoolofdata.ch",
+    "web": "http://food.schoolofdata.ch"
+  }],
+  "maintainers": [{
+    // like contributors
+  }],
+  "publishers": [{
+    // like contributors
+  }],
+  "resources": [
+    {
+    "path": "data.csv"
+    }
+  ]
+}
+
