@@ -27,7 +27,56 @@
   "resources": [
     {
       "url": "https://github.com/schoolofdata-ch/food_data_production_crop_livestock/raw/master/data.csv",
-      "path": "data.csv"
+      "path": "data.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Area Code",
+            "description": "",
+            "type": "integer"
+          },
+          {
+            "name": "Area",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "name": "Item Code",
+            "description": "",
+            "type": "integer"
+          },
+          {
+            "name": "Item",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "name": "Element Code",
+            "description": "",
+            "type": "integer"
+          },
+          {
+            "name": "Element",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "name": "Unit",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "name": "Y1961 - Y2014",
+            "description": "",
+            "type": "integer"
+          },
+          {
+            "name": "Y1961F - Y2014F",
+            "description": "",
+            "type": "string"
+          }
+        ]
+      }
     }
   ]
 }
