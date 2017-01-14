@@ -21,15 +21,13 @@
     "web": "http://food.schoolofdata.ch"
   }],
   "maintainers": [{
-    // like contributors
-  }],
-  "publishers": [{
-    // like contributors
+    "name": "Heidi Seibold",
+    "web": "https://github.com/HeidiSeibold"
   }],
   "resources": [
     {
-    "path": "data.csv"
+      "url": "https://github.com/schoolofdata-ch/food_data_production_crop_livestock/raw/master/data.csv",
+      "path": "data.csv"
     }
   ]
 }
-
