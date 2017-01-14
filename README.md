@@ -1,5 +1,5 @@
-For crops see: http://www.fao.org/faostat/en/#data/QC/metadata
+Background links at *fao.org* on:
 
-For livestock see: http://www.fao.org/faostat/en/#data/QL/metadata
-
-For abbreviations see: http://www.fao.org/faostat/en/#definitions
+- [crops](http://www.fao.org/faostat/en/#data/QC/metadata)
+- [livestock](http://www.fao.org/faostat/en/#data/QL/metadata)
+- [abbreviations](http://www.fao.org/faostat/en/#definitions)
