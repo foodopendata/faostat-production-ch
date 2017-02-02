@@ -28,7 +28,7 @@
   }],
   "resources": [
     {
-      "path": "data.csv",
+      "path": "data/food-production-ch.csv",
       "schema": {
         "fields": [
           {
